@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/tkreatedev.github.io/ar/static/css/main.ea1d551c.chunk.css",
-    "main.js": "/tkreatedev.github.io/ar/static/js/main.a3af004a.chunk.js",
-    "main.js.map": "/tkreatedev.github.io/ar/static/js/main.a3af004a.chunk.js.map",
-    "runtime-main.js": "/tkreatedev.github.io/ar/static/js/runtime-main.ac8424e6.js",
-    "runtime-main.js.map": "/tkreatedev.github.io/ar/static/js/runtime-main.ac8424e6.js.map",
-    "static/js/2.bb56c7fb.chunk.js": "/tkreatedev.github.io/ar/static/js/2.bb56c7fb.chunk.js",
-    "static/js/2.bb56c7fb.chunk.js.map": "/tkreatedev.github.io/ar/static/js/2.bb56c7fb.chunk.js.map",
-    "index.html": "/tkreatedev.github.io/ar/index.html",
-    "precache-manifest.85d5ccd3513d9ff24ab4f22ca7abfb4a.js": "/tkreatedev.github.io/ar/precache-manifest.85d5ccd3513d9ff24ab4f22ca7abfb4a.js",
-    "service-worker.js": "/tkreatedev.github.io/ar/service-worker.js",
-    "static/css/main.ea1d551c.chunk.css.map": "/tkreatedev.github.io/ar/static/css/main.ea1d551c.chunk.css.map",
-    "static/js/2.bb56c7fb.chunk.js.LICENSE.txt": "/tkreatedev.github.io/ar/static/js/2.bb56c7fb.chunk.js.LICENSE.txt",
-    "static/media/Reg.png": "/tkreatedev.github.io/ar/static/media/Reg.e09719b4.png"
+    "main.css": "/ar/static/css/main.ea1d551c.chunk.css",
+    "main.js": "/ar/static/js/main.02068c49.chunk.js",
+    "main.js.map": "/ar/static/js/main.02068c49.chunk.js.map",
+    "runtime-main.js": "/ar/static/js/runtime-main.0fbfe174.js",
+    "runtime-main.js.map": "/ar/static/js/runtime-main.0fbfe174.js.map",
+    "static/js/2.bb56c7fb.chunk.js": "/ar/static/js/2.bb56c7fb.chunk.js",
+    "static/js/2.bb56c7fb.chunk.js.map": "/ar/static/js/2.bb56c7fb.chunk.js.map",
+    "index.html": "/ar/index.html",
+    "precache-manifest.3bed0c1df213ae94bc04f29211f6db26.js": "/ar/precache-manifest.3bed0c1df213ae94bc04f29211f6db26.js",
+    "service-worker.js": "/ar/service-worker.js",
+    "static/css/main.ea1d551c.chunk.css.map": "/ar/static/css/main.ea1d551c.chunk.css.map",
+    "static/js/2.bb56c7fb.chunk.js.LICENSE.txt": "/ar/static/js/2.bb56c7fb.chunk.js.LICENSE.txt",
+    "static/media/Reg.png": "/ar/static/media/Reg.e09719b4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ac8424e6.js",
+    "static/js/runtime-main.0fbfe174.js",
     "static/js/2.bb56c7fb.chunk.js",
     "static/css/main.ea1d551c.chunk.css",
-    "static/js/main.a3af004a.chunk.js"
+    "static/js/main.02068c49.chunk.js"
   ]
 }
